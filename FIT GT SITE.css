@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.qwegym {
+  padding: 4px;
+  margin: 16px;
+}
+
+img.card-img-top {
+  height: 500px;
+}
+
+.caseone {
+  padding: 40px;
+  margin: 25px;
+  background-color: darkgray;
+}
+
+.haudfk {
+  padding: 25px;
+  margin: 20px;
+  background: lightskyblue;
+}
+.asish {
+  padding: 25px;
+  margin: 20px;
+  background: lightskyblue;
+}
+
+.a.text-reset {
+  text-decoration: none;
+}
+
+.card-body:hover {
+  background-color: lightskyblue;
+}
